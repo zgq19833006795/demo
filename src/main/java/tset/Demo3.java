@@ -20,6 +20,7 @@ public class Demo3 {
                 System.out.println("学习英语1");
                 System.out.println("学习画画啊啊啊啊啊啊");
                 System.out.println("学习英语二111");
+                System.out.println("学习英语二3333");
             }else if (ke.equals("n")){
                 System.out.println("退出系统");
                 break;
