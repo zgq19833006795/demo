@@ -17,7 +17,7 @@ public class Demo3 {
                 System.out.println("学习语文");
             }
             else if (ke.equals("4")){
-                System.out.println("学习英语");
+                System.out.println("学习英语1");
             }else if (ke.equals("n")){
                 System.out.println("退出系统");
                 break;
